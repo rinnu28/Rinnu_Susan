@@ -14,7 +14,7 @@ DHT dht(DHTPIN,DHTTYPE);
 
 WiFiClient client;
 #define MAIN_SSID "Hai"
-#define MAIN_PASS rinnususan"
+#define MAIN_PASS "rinnususan."
 #define CSE_IP "192.168.43.28"
 #define CSE_PORT 5089
 #define OM2M_ORGIN "admin:admin"
